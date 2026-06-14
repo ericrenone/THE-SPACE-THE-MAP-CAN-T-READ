@@ -3,8 +3,9 @@
 *What a dismissed insight and four billion years of evolution have in common — and why the answer lives in the same place*
 
 Eric Ren · ERI Labs · ERI BIOTECH · Jersey City, New Jersey · June 2026 · github.com/ericrenone
-https://github.com/ericrenone/SINCE-2015
-https://github.com/ericrenone/THE-ARCHIVE-OVERHANG
+
+*https://github.com/ericrenone/SINCE-2015*
+*https://github.com/ericrenone/THE-ARCHIVE-OVERHANG*
 ---
 
 Picture a room in 2015.
