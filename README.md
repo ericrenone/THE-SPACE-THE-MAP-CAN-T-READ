@@ -4,8 +4,9 @@
 
 Eric Ren · ERI Labs · ERI BIOTECH · Jersey City, New Jersey · June 2026 · github.com/ericrenone
 
-*https://github.com/ericrenone/SINCE-2015*
-*https://github.com/ericrenone/THE-ARCHIVE-OVERHANG*
+## *https://github.com/ericrenone/SINCE-2015*
+
+## *https://github.com/ericrenone/THE-ARCHIVE-OVERHANG*
 ---
 
 Picture a room in 2015.
